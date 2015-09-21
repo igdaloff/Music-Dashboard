@@ -1,0 +1,22 @@
+{
+  "name": "musicdash",
+  "version": "0.0.0",
+  "description": "Music Dashboard",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-compass": "^1.0.1",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-connect": "~0.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igdaloff/music-dash.git"
+  },
+  "author": "Nathan Igdaloff",
+  "dependencies": {
+    "jquery-placeholder": "^2.1.1",
+    "promise": "~7.0.4"
+  }
+}
